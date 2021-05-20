@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "directories": {
-    "lib": "lib"
+    "test": "test"
   },
   "scripts": {
     "test": "node ./test/sample.js",
@@ -14,6 +14,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^7.0.3"
-  }
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timweyel/portfolio-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/timweyel/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/timweyel/portfolio-generator#readme"
 }
